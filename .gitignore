@@ -1,0 +1,8 @@
+*.suo
+*.cache
+*.StyleCop
+*.dll
+*.pdb
+automaton/obj/
+automaton/packages/
+automaton/bin/
